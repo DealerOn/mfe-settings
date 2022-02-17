@@ -1,1 +1,1 @@
-# mfe-settings
+# Microfrontend Settings Page
